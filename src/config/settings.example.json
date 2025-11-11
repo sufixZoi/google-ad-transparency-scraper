@@ -1,0 +1,12 @@
+{
+  "mode": "offline",
+  "maxPages": 0,
+  "concurrency": 4,
+  "output": {
+    "path": "data/output.json"
+  },
+  "http": {
+    "timeout": 15,
+    "userAgent": "Mozilla/5.0 (compatible; GoogleAdTransparencyScraper/1.0; +https://bitbash.dev)"
+  }
+}
